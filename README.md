@@ -1,7 +1,7 @@
-# Create a README.md
+# Favorite/Least Favorite Number Ratio
 
-If you need help with `Markdown`, check out [The Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)!
+This script allows you to enter your favorite and least favorite number and compute the ratio.
 
-What should a good README.md look like? Check out these [guidelines](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).
+## How does it work?
 
-Did you add an open source software license?
+It divides the user's favorite number by their least favorite number. Truly complex stuff. There's a check if the user's least favorite number is 0 to avoid div/0 errors.
