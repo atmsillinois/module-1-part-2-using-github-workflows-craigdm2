@@ -1,7 +1,7 @@
 # Favorite/Least Favorite Number Ratio
 
-This script allows you to enter your favorite and least favorite number and compute the ratio.
+This script allows you to enter your favorite and least favorite number and compute the ratio. Truly complex stuff.
 
 ## How does it work?
 
-It divides the user's favorite number by their least favorite number. Truly complex stuff. There's a check if the user's least favorite number is 0 to avoid div/0 errors.
+This script asks the user for their favorite and least favorite numbers, then calculates and prints the ratio between them. Division by zero is handled with an error message. The user is re-prompted to enter a new least favorite number if they enter zero.
